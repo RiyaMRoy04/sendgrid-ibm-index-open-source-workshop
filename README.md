@@ -33,6 +33,12 @@ This repo is a companion to a [workshop given at IBM Index 2018](http://send.gd/
 <a name="installation"></a>
 # Installation
 
+Clone the repository from GitHub using the following command:
+
+```bash
+git clone https://github.com/thinkingserious/sendgrid-ibm-index-open-source-workshop/
+```
+
 Update the email addresses in `app.py`.
 
 ```bash
